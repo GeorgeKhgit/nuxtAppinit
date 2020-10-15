@@ -1,0 +1,2 @@
+# nuxtAppinit
+init nuxt app
